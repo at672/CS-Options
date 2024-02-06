@@ -7,7 +7,7 @@ BMS.py - This is a file that contains analytical computations for option prices 
 
 Asian Option Variance Reduction - This is a notebook that explores pricing an asian option using several variance reduction techniques. It is priced using standard Monte Carlo simulation, Antithetic Variates, Terminal stratification (proportional), post stratification, and latin hypercube sampling. Explanations of each variance reduction technique is provided and a comparison of results follows.
 
-Barrier Options with Control Variates: This noteobook shows how to simulate the price of barrier options, and uses control variates as a variance reduction technique. Three separate variates are used, and I analyze which variate performs best.
+Barrier Options with Control Variates: This notebook shows how to simulate the price of barrier options, and uses control variates as a variance reduction technique. Three separate variates are used, and I analyze which variate performs best.
 
 Conditional MC example: This is a short notebook showing how to use conditional monte carlo simulation. Conditional MC involves partially simulating and then using analytical formulae to compute results. It is a technique that cannot always be used.
 
